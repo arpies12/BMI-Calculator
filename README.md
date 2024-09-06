@@ -24,6 +24,7 @@ To get started with this project, follow these steps:
 3.**Install Dependencies:**
 Make sure you have Node.js installed. If not, download and install it from Node.js official site.
   npm install
+
 4. **Run the Application:**
 node server.js
 
